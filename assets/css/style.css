@@ -195,6 +195,7 @@ h3,
   width: 200px;
   height: auto;
   margin-top: 10px;
+
   margin-right: 25px;
 }
 
@@ -263,5 +264,5 @@ input[type=submit] {
   }
   #masthead {
     width: 100%;
+    position: fixed;
   }
-}
